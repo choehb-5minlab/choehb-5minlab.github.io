@@ -1,0 +1,35 @@
+name: Deploy Markdown Post
+
+on:
+  repository_dispatch:
+    types: [deploy-post]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          ref: main # 브랜치 이름을 확인하세요.
+
+      - name: Setup Git Config
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+
+      - name: Decode Markdown File
+        run: |
+          echo "${{ github.event.client_payload.markdown }}" | base64 --decode > "./_posts/${{ github.event.client_payload.filename }}"
+
+      - name: Commit and Push
+        run: |
+          git add .
+          git commit -m "Add new post via webhook"
+          if git push; then
+            echo "Pushed successfully."
+          else
+            echo "Failed to push."
+            exit 1
+          ```
+  
