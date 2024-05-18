@@ -18,7 +18,7 @@ last_modified_at: 2024-05-18
 
 **패널: 야쿱 레미아르, 펠릭스 브라버그, 마테이 란카릭**
 
-Slack 채널에 참여하기 [여기](https://join.slack.com/t/two-and-half-gamers/shared_invite/zt-2ftcc85es-CesThaafn9k0BIFSVAV8FQ)!
+[여기에서](https://join.slack.com/t/two-and-half-gamers/shared_invite/zt-2ftcc85es-CesThaafn9k0BIFSVAV8FQ)Slack 채널에 참여 하세요!
 
 ### 의제
 
@@ -70,7 +70,7 @@ iOS 캠페인을 실행하고 TikTok을 광고에 활용하는 방법을 살펴�
 
 YouTube, Spotify, Apple에서 구독 버튼을 눌러주세요!
 
-피드백과 의견을 공유해 주세요. [matej@lancaric.me](https://matej@lancaric.me)
+피드백과 의견을 공유해 주세요 - [matej@lancaric.me](https://matej@lancaric.me)
 
 \---------------------------------------
 
@@ -106,6 +106,6 @@ May 15
 
 ](https://lancaric.substack.com/p/match-3d-ua-playbook-real-data-inside)
 
-아무도 답할 수 없는 UA 관련 질문이 있으신가요? 게임 업계 최초의 UA 인공지능인 마테즈 AI에게 물어보세요! [https://lancaric.me/matej-ai](https://lancaric.me/matej-ai)
+아무도 답할 수 없는 UA 관련 질문이 있으신가요? 게임 업계 최초의 UA AI인 마테즈 AI에게 물어보세요! [https://lancaric.me/matej-ai](https://lancaric.me/matej-ai)
 
 원문: [https://lancaric.substack.com/p/supermarket-simulator-mobile-why](https://lancaric.substack.com/p/supermarket-simulator-mobile-why)
