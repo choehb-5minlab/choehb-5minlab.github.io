@@ -15,8 +15,8 @@ jobs:
 
       - name: Setup Git Config
         run: |
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
+          git config --global user.email "hongbeom.choe@5minlab.com"
+          git config --global user.name "워크플로"
 
       - name: Decode Markdown File
         run: |
@@ -25,5 +25,5 @@ jobs:
       - name: Commit and Push
         run: |
           git add .
-          git commit -m "Add new post via webhook"
+          git commit -m "[워크플로] 새 포스트: ${{ github.event.client_payload.filename }}"
           git push
