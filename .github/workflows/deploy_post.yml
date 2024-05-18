@@ -26,10 +26,4 @@ jobs:
         run: |
           git add .
           git commit -m "Add new post via webhook"
-          if git push; then
-            echo "Pushed successfully."
-          else
-            echo "Failed to push."
-            exit 1
-          
-
+          git push
