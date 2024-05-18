@@ -108,4 +108,4 @@ May 15
 
 아무도 답할 수 없는 UA 관련 질문이 있으신가요? 게임 업계 최초의 UA 인공지능인 마테즈 AI에게 물어보세요! [https://lancaric.me/matej-ai](https://lancaric.me/matej-ai)
 
-원문: https://lancaric.substack.com/p/supermarket-simulator-mobile-why
+원문: [https://lancaric.substack.com/p/supermarket-simulator-mobile-why](https://lancaric.substack.com/p/supermarket-simulator-mobile-why)
