@@ -59,7 +59,7 @@ Steam에는 성공적인 밀실 게임이 많이 있습니다:
 *   [The Complex: Found Footage](https://store.steampowered.com/app/1942120/The_Complex_Found_Footage/) (7,979 리뷰)
 *   [인사이드 더 백룸](https://store.steampowered.com/app/1987080/Inside_the_Backrooms/) (34,594 리뷰)
 
-Steam에는 형편없는 밀실 게임도 많이 있습니다. [vginsights.com에서 "백룸"](http://vginsights.com)이라는 단어를 검색하기만 해도 25개 이상의 백룸을 확인할 수 있습니다.
+Steam에는 형편없는 밀실 게임도 많이 있습니다. [vginsights.com에서 "백룸"](https://vginsights.com)이라는 단어를 검색하기만 해도 25개 이상의 백룸을 확인할 수 있습니다.
 
 이것이 이 게임을 돋보이게 하는 요소입니다:
 
@@ -106,7 +106,7 @@ Steam에는 형편없는 밀실 게임도 많이 있습니다. [vginsights.com�
 6.  이 게임은 협동을 지원하며 명확하게 명시되어 있습니다. 호러 팬들은 친구들과 함께할 수 있기 때문에 협동 플레이를 좋아합니다. 가장 친한 친구와 함께 무서운 영화를 보는 것과 같습니다.
 7.  예고편은 게임 플레이, 테마, 설정, 적을 5 초 이내에 보여줍니다. 예고편만 봐도 이 게임이 어떤 게임인지 바로 알 수 있습니다.
 
-이 모든 요소가 결합되어 이 게임을 충동 구매하기 쉬운 게임으로 만들었습니다. Blake는 자신의 Steam 페이지에서 게임에 대한 메시지를 훌륭하게 전달했습니다. [HowToMakeASteamPage.com에서](http://howtomakeasteampage.com) 제 수업을 들으시면 몇 초 안에 어떤 유형의 게임을 만들고 있는지 사람들에게 구체적으로 알려야 한다는 것이 제 핵심 메시지입니다. 수줍어하거나 게임이 얼마나 독특한지 현혹하는 것이 아닙니다. 대신, Steam 구매자에게 이미 익숙한 게임으로 고정시켜야만 좋은 게임을 만들고 있다는 느낌을 주고 양질의 경험을 제공할 수 있습니다. 게임이 너무 혼란스럽고 너무 다르면 Steam 고객과 멀어질 뿐입니다;
+이 모든 요소가 결합되어 이 게임을 충동 구매하기 쉬운 게임으로 만들었습니다. Blake는 자신의 Steam 페이지에서 게임에 대한 메시지를 훌륭하게 전달했습니다. [HowToMakeASteamPage.com에서](https://howtomakeasteampage.com) 제 수업을 들으시면 몇 초 안에 어떤 유형의 게임을 만들고 있는지 사람들에게 구체적으로 알려야 한다는 것이 제 핵심 메시지입니다. 수줍어하거나 게임이 얼마나 독특한지 현혹하는 것이 아닙니다. 대신, Steam 구매자에게 이미 익숙한 게임으로 고정시켜야만 좋은 게임을 만들고 있다는 느낌을 주고 양질의 경험을 제공할 수 있습니다. 게임이 너무 혼란스럽고 너무 다르면 Steam 고객과 멀어질 뿐입니다;
 
 [백룸: Escape Together는](https://store.steampowered.com/app/2141730/Backrooms_Escape_Together/) 사람들에게 어떤 유형의 게임인지 알리기 위한 좋은 Steam 페이지를 만드는 데 있어 마스터 클래스입니다;
 
