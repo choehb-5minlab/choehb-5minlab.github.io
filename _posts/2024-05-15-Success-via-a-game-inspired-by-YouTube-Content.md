@@ -1,5 +1,18 @@
 ---
-title:  "<div class="entry-content">
+title:  "YouTube 콘텐츠에서 영감을 얻은 게임을 통한 성공"
+
+categories:
+  - 번역
+  
+tags:
+  - 
+toc: true
+toc_sticky: true
+ 
+date: 2024-05-15
+last_modified_at: 2024-05-15
+---
+<div class="entry-content">
     <div class="twp-article-wrapper clearfix">
         <div class="image-full"><img width="1920" height="1080" src="https://howtomarketagame.com/wp-content/uploads/2024/05/backrooms_escape_together.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://howtomarketagame.com/wp-content/uploads/2024/05/backrooms_escape_together.jpg 1920w, https://howtomarketagame.com/wp-content/uploads/2024/05/backrooms_escape_together-300x169.jpg 300w, https://howtomarketagame.com/wp-content/uploads/2024/05/backrooms_escape_together-1024x576.jpg 1024w, https://howtomarketagame.com/wp-content/uploads/2024/05/backrooms_escape_together-768x432.jpg 768w, https://howtomarketagame.com/wp-content/uploads/2024/05/backrooms_escape_together-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px"/></div>
 <p>2022년 10월 18일, Blake(디스코드 핸들 티스베리)라는 게임 개발자가 <a href="https://store.steampowered.com/app/2141730/Backrooms_Escape_Together/">백룸을</a> 출시했습니다: <a href="https://store.steampowered.com/app/2141730/Backrooms_Escape_Together/">함께 탈출하기</a> (BET)를 Steam에 출시한 지 단 2주 만에 Steam 페이지를 오픈했습니다. 2주 동안 위시리스트가 500개밖에 모이지 않았습니다. 이 게임은 출시 예정 인기 게임이나 신규 및 인기 게임에 포함되지 않았습니다. 출시 당시 스트리머 커버리지도 상당히 제한적이었습니다:</p>
@@ -48,7 +61,7 @@ title:  "<div class="entry-content">
 
 
 
-<p>백룸은 모든 것이 형광등, 노란 카펫, 긴 복도, 이상한 소리를 내는 소름 끼치는 괴물들이 순찰하는 리미널 존에 갇힌다는 내용의 '<a href="https://www.creepypasta.com/">소름 끼치는 파스타</a>' 또는 팬픽션입니다. 2019년 4chan 스레드에서 누군가가 커뮤니티에 "'뭔가 이상하다'고 느껴지는 불쾌한 이미지를 게시해달라"고 도전한 것이 계기가 되어 탄생했습니다;</p>
+<p>백룸은 모든 것이 형광등, 노란 카펫, 긴 복도, 이상한 소리를 내는 소름 끼치는 괴물들이 순찰하는 리미널 존에 갇힌다는 내용의 '<a href="https://www.creepypasta.com/">소름 끼치는 파스타</a>' 또는 팬픽션입니다. 2019년 4chan 스레드에서 누군가가 커뮤니티에 "'뭔가 이상하다'고 느껴지는 불안한 이미지를 게시해달라"고 도전하면서 탄생했습니다;</p>
 
 
 
@@ -385,30 +398,17 @@ title:  "<div class="entry-content">
 
 
 
-<li>BET의 환불률은 16.1%로 상당히 높은 편이며, 원래 출시 기간에는 25.4%로 더 높았습니다. 제 생각에는 언리얼 엔진 5 하드웨어 요구 사항, 저렴한 가격, 협동 플레이라는 사실(친구 그룹에 게임을 소개할지 알아보기 위해 샘플을 가져가는 사람들), 첫 레벨이 너무 어렵다는 블레이크의 인정(29%가 완료하지 않음), 백룸즈 팬들이 백룸즈 게임에서 원하는 것을 충족하는지 확인하기 위해 한 번 해보는 것 등이 원인이라고 생각합니다. 이 경우에는 이것이 나쁘다고 생각하지 않습니다. 하지만 데모를 통해 상황을 바꿀 수 있는지 살펴볼 가치가 있을 것 같습니다;</li>
+<li>BET의 환불률은 16.1%로 상당히 높은 편이며, 원래 출시 기간에는 25.4%로 더 높았습니다. 제 생각에는 언리얼 엔진 5 하드웨어 요구 사항, 저렴한 가격, 협동 게임이라는 사실(친구 그룹에 게임을 소개할지 알아보기 위해 샘플을 가져가는 사람들), 첫 레벨이 너무 어렵다는 블레이크의 인정(29%가 완료하지 않음), 백룸즈 팬들이 백룸즈 게임에서 원하는 것을 충족하는지 확인하기 위해 한 번 해보는 것 등이 원인이라고 생각합니다. 이 경우에는 이것이 나쁘다고 생각하지 않습니다. 하지만 데모를 통해 상황을 바꿀 수 있는지 살펴볼 가치가 있을 것 같습니다;</li>
 
 
 
-<li>블레이크는 게임의 성공의 많은 부분을 언리얼 엔진 5의 초기 도입 덕분이라고 말합니다. 스크린샷만 봐도 비주얼이 정말 뛰어났죠;</li>
+<li>블레이크는 이 게임의 성공의 상당 부분을 언리얼 엔진 5의 초기 도입 덕분이라고 말합니다. 스크린샷만 봐도 비주얼이 정말 뛰어났죠;</li>
 </ul>
 
 
 
 
 </div>
-</div>"
-
-categories:
-  - 번역
-  
-tags:
-  - 
-toc: true
-toc_sticky: true
- 
-date: 2024-05-15
-last_modified_at: 2024-05-15
----
-[Collection]
+</div>
 
 원문: https://howtomarketagame.com/2024/05/15/success-by-making-a-game-using-youtube-trending-content/?utm_source=rss&utm_medium=rss&utm_campaign=success-by-making-a-game-using-youtube-trending-content
