@@ -12,14 +12,14 @@ toc_sticky: true
 date: 2024-05-16
 last_modified_at: 2024-05-16
 ---
-[![](https://naavik.co/wp-content/uploads/2024/05/Squad-busters-1024x576.jpg)](https://naavik.co/digest/squad-busters-global-launch/)
+[![](https://naavik.co/wp-content/uploads/2024/05/s_9003F5BC563FF775ABF60AC942DB2E64298A1615F7378740D96215EA723FE921_1714242462665_Naavik-Square-WhiteonBlack-Small-1024x504.png)](https://naavik.co/digest/best-2024-so-far/)
 
 [다이제스트](https://naavik.co/category/digest/)
 
-# [스쿼드 버스터즈의 글로벌 출시를 향한 독특한 여정 풀기](https://naavik.co/digest/squad-busters-global-launch/)
+# [나빅의 2024년 베스트 (지금까지!)](https://naavik.co/digest/best-2024-so-far/)
 
-2024년 5월 12일
+2024년 5월 1일
 
-하샬 카르반데
+아론 부시
 
 원문: https://naavik.co/digest/ea-rebuilding-year/
