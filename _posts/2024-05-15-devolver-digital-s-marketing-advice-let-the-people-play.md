@@ -12,9 +12,9 @@ toc_sticky: true
 date: 2024-05-15
 last_modified_at: 2024-05-15
 ---
-[![Picture of Chris Kerr](https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt1c7a117d71555292/650efbcad3423169a8871059/chris_kerr_headshot.jpg?width=100&auto=webp&quality=80&disable=upscale "Picture of Chris Kerr")](/author/chris-kerr)
+[![Picture of Chris Kerr](https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt1c7a117d71555292/650efbcad3423169a8871059/chris_kerr_headshot.jpg?width=100&auto=webp&quality=80&disable=upscale "Picture of Chris Kerr")](https://www.gamedeveloper.com/author/chris-kerr)
 
-[크리스 커](/author/chris-kerr), 뉴스 에디터
+[크리스 커](https://www.gamedeveloper.com/author/chris-kerr), 뉴스 에디터
 
 May 15, 2024
 
@@ -24,7 +24,7 @@ May 15, 2024
 
 Devolver Digital 이미지 제공
 
-[](https://www.linkedin.com/sharing/share-offsite/?url=https://www.gamedeveloper.com/marketing/devolver-digital-s-marketing-advice-let-the-people-play)[](https://www.facebook.com/sharer/sharer.php?u=https://www.gamedeveloper.com/marketing/devolver-digital-s-marketing-advice-let-the-people-play)[](https://www.twitter.com/intent/tweet?url=https://www.gamedeveloper.com/marketing/devolver-digital-s-marketing-advice-let-the-people-play)[](/cdn-cgi/l/email-protection#3a05494f58505f594e077e5f4c55564c5f481a7e535d534e5b561c1942080d01491a575b48515f4e53545d1a5b5e4c53595f051a765f4e1a4e525f1a4a5f554a565f1a4a565b431c5b574a0158555e4307731f080a4e52554f5d524e1f080a4e525f1f080a5c555656554d53545d1f080a5c4855571f080a7d5b575f1f080a7e5f4c5f56554a5f481f080a57535d524e1f080a53544e5f485f494e1f080a43554f141f0a7e1f0a7b1f0a7e1f0a7b1f080a7e5f4c55564c5f481f080a7e535d534e5b561c1942080d01491f080a575b48515f4e53545d1f080a5b5e4c53595f1f097c1f080a765f4e1f080a4e525f1f080a4a5f554a565f1f080a4a565b431f0a7e1f0a7b524e4e4a491f097b1f087c1f087c4d4d4d145d5b575f5e5f4c5f56554a5f48145955571f087c575b48515f4e53545d1f087c5e5f4c55564c5f48175e535d534e5b56174917575b48515f4e53545d175b5e4c53595f17565f4e174e525f174a5f554a565f174a565b43)[](https://www.reddit.com/submit?url=https://www.gamedeveloper.com/marketing/devolver-digital-s-marketing-advice-let-the-people-play&title=Devolver%20Digital's%20marketing%20advice%3F%20Let%20the%20people%20play)
+[](https://www.linkedin.com/sharing/share-offsite/?url=https://www.gamedeveloper.com/marketing/devolver-digital-s-marketing-advice-let-the-people-play)[](https://www.facebook.com/sharer/sharer.php?u=https://www.gamedeveloper.com/marketing/devolver-digital-s-marketing-advice-let-the-people-play)[](https://www.twitter.com/intent/tweet?url=https://www.gamedeveloper.com/marketing/devolver-digital-s-marketing-advice-let-the-people-play)[](https://www.gamedeveloper.com/cdn-cgi/l/email-protection#dde2aea8bfb7b8bea9e099b8abb2b1abb8affd99b4bab4a9bcb1fbfea5efeae6aefdb0bcafb6b8a9b4b3bafdbcb9abb4beb8e2fd91b8a9fda9b5b8fdadb8b2adb1b8fdadb1bca4fbbcb0ade6bfb2b9a4e094f8efeda9b5b2a8bab5a9f8efeda9b5b8f8efedbbb2b1b1b2aab4b3baf8efedbbafb2b0f8efed9abcb0b8f8efed99b8abb8b1b2adb8aff8efedb0b4bab5a9f8efedb4b3a9b8afb8aea9f8efeda4b2a8f3f8ed99f8ed9cf8ed99f8ed9cf8efed99b8abb2b1abb8aff8efed99b4bab4a9bcb1fbfea5efeae6aef8efedb0bcafb6b8a9b4b3baf8efedbcb9abb4beb8f8ee9bf8efed91b8a9f8efeda9b5b8f8efedadb8b2adb1b8f8efedadb1bca4f8ed99f8ed9cb5a9a9adaef8ee9cf8ef9bf8ef9baaaaaaf3babcb0b8b9b8abb8b1b2adb8aff3beb2b0f8ef9bb0bcafb6b8a9b4b3baf8ef9bb9b8abb2b1abb8aff0b9b4bab4a9bcb1f0aef0b0bcafb6b8a9b4b3baf0bcb9abb4beb8f0b1b8a9f0a9b5b8f0adb8b2adb1b8f0adb1bca4)[](https://www.reddit.com/submit?url=https://www.gamedeveloper.com/marketing/devolver-digital-s-marketing-advice-let-the-people-play&title=Devolver%20Digital's%20marketing%20advice%3F%20Let%20the%20people%20play)
 
 Devolver Digital의 최고 마케팅 책임자이자 공동 창립자인 나이젤 로리(Nigel Lowrie)는 혼잡한 시장에서 소음을 줄이고자 하는 개발자에게 몇 가지 조언을 전합니다: 사람들이 놀게 하세요.
 
@@ -56,23 +56,23 @@ Devolver Digital의 최고 마케팅 책임자이자 공동 창립자인 나이�
 
 그는 플랫폼 사업자가 구독 서비스 계약을 논의하기 위해 데볼버에 접근하면 당연히 경청할 준비가 되어 있지만, 이러한 거래를 "예측의 일부로 삼아서는 안 된다"고 말합니다. 그는 게임이 스스로의 무게를 감당할 수 있어야 한다고 말합니다. "구독 서비스를 이용해야 한다는 생각으로 프로젝트에 뛰어들면 성공할 수 없습니다. 그건 위험한 생각입니다."
 
-[](https://www.linkedin.com/sharing/share-offsite/?url=https://www.gamedeveloper.com/marketing/devolver-digital-s-marketing-advice-let-the-people-play)[](https://www.facebook.com/sharer/sharer.php?u=https://www.gamedeveloper.com/marketing/devolver-digital-s-marketing-advice-let-the-people-play)[](https://www.twitter.com/intent/tweet?url=https://www.gamedeveloper.com/marketing/devolver-digital-s-marketing-advice-let-the-people-play)[](/cdn-cgi/l/email-protection#310e4244535b5452450c7554475e5d475443117558565845505d17124903060a42115c50435a5445585f56115055475852540e117d5445114559541141545e415d5411415d504817505c410a535e55480c7814030145595e44565945140301455954140301575e5d5d5e46585f5614030157435e5c14030176505c54140301755447545d5e4154431403015c58565945140301585f455443544245140301485e441f1401751401701401751401701403017554475e5d4754431403017558565845505d17124903060a421403015c50435a5445585f561403015055475852541402771403017d544514030145595414030141545e415d54140301415d504814017514017059454541421402701403771403774646461f56505c54555447545d5e4154431f525e5c1403775c50435a5445585f561403775554475e5d4754431c5558565845505d1c421c5c50435a5445585f561c5055475852541c5d54451c4559541c41545e415d541c415d5048)[](https://www.reddit.com/submit?url=https://www.gamedeveloper.com/marketing/devolver-digital-s-marketing-advice-let-the-people-play&title=Devolver%20Digital's%20marketing%20advice%3F%20Let%20the%20people%20play)
+[](https://www.linkedin.com/sharing/share-offsite/?url=https://www.gamedeveloper.com/marketing/devolver-digital-s-marketing-advice-let-the-people-play)[](https://www.facebook.com/sharer/sharer.php?u=https://www.gamedeveloper.com/marketing/devolver-digital-s-marketing-advice-let-the-people-play)[](https://www.twitter.com/intent/tweet?url=https://www.gamedeveloper.com/marketing/devolver-digital-s-marketing-advice-let-the-people-play)[](https://www.gamedeveloper.com/cdn-cgi/l/email-protection#18276b6d7a727d7b6c255c7d6e77746e7d6a385c717f716c79743e3b602a2f236b3875796a737d6c71767f38797c6e717b7d2738547d6c386c707d38687d7768747d38687479613e797568237a777c6125513d2a286c70776d7f706c3d2a286c707d3d2a287e777474776f71767f3d2a287e6a77753d2a285f79757d3d2a285c7d6e7d7477687d6a3d2a2875717f706c3d2a2871766c7d6a7d6b6c3d2a2861776d363d285c3d28593d285c3d28593d2a285c7d6e77746e7d6a3d2a285c717f716c79743e3b602a2f236b3d2a2875796a737d6c71767f3d2a28797c6e717b7d3d2b5e3d2a28547d6c3d2a286c707d3d2a28687d7768747d3d2a28687479613d285c3d2859706c6c686b3d2b593d2a5e3d2a5e6f6f6f367f79757d7c7d6e7d7477687d6a367b77753d2a5e75796a737d6c71767f3d2a5e7c7d6e77746e7d6a357c717f716c7974356b3575796a737d6c71767f35797c6e717b7d35747d6c356c707d35687d7768747d3568747961)[](https://www.reddit.com/submit?url=https://www.gamedeveloper.com/marketing/devolver-digital-s-marketing-advice-let-the-people-play&title=Devolver%20Digital's%20marketing%20advice%3F%20Let%20the%20people%20play)
 
 ## 저자 소개
 
-[![Chris Kerr](https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt1c7a117d71555292/650efbcad3423169a8871059/chris_kerr_headshot.jpg?width=400&auto=webp&quality=80&disable=upscale "Chris Kerr")](/author/chris-kerr)
+[![Chris Kerr](https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt1c7a117d71555292/650efbcad3423169a8871059/chris_kerr_headshot.jpg?width=400&auto=webp&quality=80&disable=upscale "Chris Kerr")](https://www.gamedeveloper.com/author/chris-kerr)
 
 [
 
 크리스 커
 
-](/author/chris-kerr)
+](https://www.gamedeveloper.com/author/chris-kerr)
 
 뉴스 편집자, GameDeveloper.com
 
 게임 개발자 뉴스 에디터인 크리스 커는 게임 업계에서 10년 이상의 경력을 쌓은 수상 경력이 있는 저널리스트이자 리포터입니다. 그의 바이라인은 Edge, Stuff, 와이어프레임, 인터내셔널 비즈니스 타임즈, 그리고 다음과 같은 유명 인쇄 및 디지털 간행물에 게재되었습니다. [PocketGamer.biz](https://pocketgamer.biz/). Chris는 경력 전반에 걸쳐 GDC, PAX Australia, Gamescom, 파리 게임 위크, Develop Brighton 등 주요 업계 행사를 취재했습니다. 또한 여러 차례 디벨롭 스타 어워드의 심사위원으로 참여했으며, BBC 라디오 5 라이브에 출연해 뉴스 속보를 논의하기도 했습니다.
 
-[자세한 내용 보기 크리스 커](/author/chris-kerr)
+[자세한 내용 보기 크리스 커](https://www.gamedeveloper.com/author/chris-kerr)
 
 게임 개발자의 일일 뉴스, 개발자 블로그, 이야기를 받은 편지함으로 바로 받아보세요.
 
