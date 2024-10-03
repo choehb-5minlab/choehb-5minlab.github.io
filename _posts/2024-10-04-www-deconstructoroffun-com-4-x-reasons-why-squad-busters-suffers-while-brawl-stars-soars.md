@@ -5,7 +5,7 @@ categories:
   - 번역
   
 tags:
-  - dof
+  - deconstructor_of_fun
 toc: true
 toc_sticky: true
  
